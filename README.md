@@ -42,11 +42,11 @@ En este desafío, agregarás una imagen a tu proyecto de sitio personal. Elige u
 
 ![{9FBBCFEF-74BF-4BB6-AD9F-BBA7D90DD917}](https://github.com/user-attachments/assets/fc3061f5-e029-4e72-a757-4e6600c190b4)
 
-
-
 ## 6 - Listando elementos en HTML
 
 Ahora, agrega una lista de elementos a tu sitio. Esta lista puede ser de características del proyecto, etapas de desarrollo o cualquier otra información relevante. Utiliza la etiqueta `<ul>` para una lista no ordenada o `<ol>` para una lista ordenada, y `<li>` para cada elemento de la lista. Verifica el diseño en el navegador después de la inserción.
+
+![{B6D4C86A-5101-4BA6-85A6-AD2582FF8EAA}](https://github.com/user-attachments/assets/a1301a81-8186-4754-a00b-2c51b6610a54)
 
 ## 7 - Explorando el impacto del DOCTYPE en HTML
 
