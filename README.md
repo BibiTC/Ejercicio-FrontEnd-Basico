@@ -40,6 +40,10 @@ Estás desarrollando la página de inicio de un proyecto personal. Necesitas cre
 
 En este desafío, agregarás una imagen a tu proyecto de sitio personal. Elige una imagen de tu preferencia (puede ser un logotipo o una foto relacionada con el tema del sitio). Utiliza la etiqueta `<img>` para insertar la imagen en el cuerpo del documento HTML y no olvides incluir el atributo `alt` para describir la imagen, mejorando la accesibilidad del sitio. Verifica el resultado en el navegador.
 
+![{9FBBCFEF-74BF-4BB6-AD9F-BBA7D90DD917}](https://github.com/user-attachments/assets/fc3061f5-e029-4e72-a757-4e6600c190b4)
+
+
+
 ## 6 - Listando elementos en HTML
 
 Ahora, agrega una lista de elementos a tu sitio. Esta lista puede ser de características del proyecto, etapas de desarrollo o cualquier otra información relevante. Utiliza la etiqueta `<ul>` para una lista no ordenada o `<ol>` para una lista ordenada, y `<li>` para cada elemento de la lista. Verifica el diseño en el navegador después de la inserción.
